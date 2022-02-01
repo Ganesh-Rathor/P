@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&display=swap');
+
+body{
+    background-color: #FFF8F3;
+    font-family: "Heebo";
+    display: flex;
+    justify-content: left;
+}
+
+.container{
+    margin: 5rem 0 0 5rem;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    font-size: 1rem;
+}
+li{
+    margin: 1rem 0 1rem 2rem;
+}
